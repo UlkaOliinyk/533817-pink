@@ -1,7 +1,7 @@
 # Личный проект «Пинк» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Юлия](https://up.htmlacademy.ru/adaptive/13/user/533817).
-* Наставник: `Неизвестно`.
+* Наставник: `Никита Рогатнев`.
 
 ---
 
